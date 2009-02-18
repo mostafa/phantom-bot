@@ -1,0 +1,5 @@
+++ add changable server
+++ using optparser
+++ using better command analyzer
+++ using a privmsg write function
+++ anser to more irc command like ping
