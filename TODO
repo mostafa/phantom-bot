@@ -1,6 +1,5 @@
 ++ add changable server
 ++ using optparser
-++ using better command analyzer
 ++ using a privmsg write function
 ++ anser to more irc command like ping
-++ add assert function
+++ change $VERSION$ and $HOME$ PHANTOM_VERSION=None and XBRAIN_VERSION=None in all file
